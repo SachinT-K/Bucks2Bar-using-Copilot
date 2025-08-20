@@ -1,1 +1,8 @@
 Project using GitHub Copilot pairr programming
+
+Setup details
+1. VS Code
+2. Live Server, GitHub Copilot, GitHub Copilot chat, default browser extensions
+3. code-refactor.zip - for "Use GitHub Copilot Chat to refactor Javascript code".
+4. code-with-server.zip - "Use GitHub Copilot to generate server code with express (+ prompt tips)" and 24 titled "Use GitHub Copilot chat to setup sending emails using Resend".
+5. code.zip - this contains all the code we generate in this course.
