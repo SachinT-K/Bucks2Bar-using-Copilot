@@ -6,3 +6,7 @@ Setup details
 3. code-refactor.zip - for "Use GitHub Copilot Chat to refactor Javascript code".
 4. code-with-server.zip - "Use GitHub Copilot to generate server code with express (+ prompt tips)" and 24 titled "Use GitHub Copilot chat to setup sending emails using Resend".
 5. code.zip - this contains all the code we generate in this course.
+
+copilot commands
+/new - to create new project/workspace
+@workspace - to get suggestions for current file
