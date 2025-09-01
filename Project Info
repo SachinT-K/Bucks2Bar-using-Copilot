@@ -25,5 +25,8 @@ Project Coding
  2. close all files and add @workspace + add prompt
  3. close all files and add prompt + attach file where code needs to be added
 
- - creating test cases 
+- creating test cases 
   1. @workspace /tests + add prompt by selecting code for which tests needs to be written
+
+- explain code
+  1. @workspace /explain + add prompt by selecting code for which explaination is required
