@@ -10,3 +10,17 @@ Setup details
 copilot commands
 /new - to create new project/workspace
 @workspace - to get suggestions for current file
+
+Github copilot features
+1. Inline chat - select the code -> click on bulb icon -> modify with copilot -> give promt
+2. Quick chat - "ctrl + I" -> give promt
+
+Project Coding
+- create project using /new
+- add bootstrap CDNs using @workspace to index.html
+- create navbars, navs and tabs, layouts, input groups(in forms) from bootstrap
+- use chart.js library and integrate it to our project along with CDNs for creating charts on income and expenses using copilot
+- ways for providing context to copilot
+ 1. open file and add prompt in chat
+ 2. close all files and add @workspace + add prompt
+ 3. close all files and add prompt + attach file where code needs to be added
