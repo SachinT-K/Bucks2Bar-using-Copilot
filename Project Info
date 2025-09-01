@@ -30,3 +30,6 @@ Project Coding
 
 - explain code
   1. @workspace /explain + add prompt by selecting code for which explaination is required
+
+- fix errors
+  1. @terminal + add prompt by selecting error
